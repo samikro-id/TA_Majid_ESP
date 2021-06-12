@@ -36,7 +36,7 @@ char pass[] = "samikroid";
 
 #define MQTT2_BROKER     "mqtt.thingspeak.com"      //
 #define MQTT2_PORT       1883                       //
-#define MQTT2_USERNAME   "mwa0000022317560"                // Change to your Username from Broker
+#define MQTT2_USERNAME   "mwa0000022317560"         // Change to your Username from Broker
 #define MQTT2_PASSWORD   "20UKGW1QZ0GBNQ19"         // Change to your password from Broker MQTT API Key
 #define MQTT2_TIMEOUT    2
 #define MQTT2_QOS        0
